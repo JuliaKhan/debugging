@@ -17,6 +17,7 @@ menu_items = [
     "Herbal Tea",
 ]
 
+
 @app.route("/")
 def homepage():
     """Display the homepage."""
